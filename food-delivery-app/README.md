@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# 🥗 MealConnect - Turning Excess into Access
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🌟 About
+**Meal Connect** is a community-driven platform that bridges the gap between surplus and need — connecting restaurants, NGOs, and individuals to reduce food waste and fight hunger.
 
-## Available Scripts
+## 🌟 Mission
+Our mission is to create a world where no meal is wasted and no person goes hungry by transforming surplus food into shared hope through smart, seamless connections.
 
-In the project directory, you can run:
+## 🍴 For Restaurants (Donors)
+Restaurants and food providers can easily list surplus food through their dashboard.  
+Each donation includes dish details, pickup location, and expiry time.  
+Once submitted, it becomes visible to nearby NGOs who can claim it instantly.  
+Donors can track pickups, view past donations, and even sponsor meals financially.
 
-### `npm start`
+## 🏢 For NGOs (Receivers)
+Registered NGOs can browse and claim available food donations in real time.  
+Their dashboard provides live stats, delivery coordination, volunteer assignments, and donation history — ensuring every meal reaches someone in need efficiently.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🙋‍♀️ For Individuals (Supporters)
+Anyone can contribute by donating food, sponsoring meals, or offering monetary support.  
+Home donors can schedule pickups, while sponsors can fund pre-set meal packs.  
+Every contribution directly feeds those in need and reflects in an impact summary for transparency.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚗 For Volunteers
+Volunteers can register to assist with pickups and deliveries.  
+They receive live tasks, track routes, and update statuses — ensuring timely and safe distribution.
 
-### `npm test`
+## 💬 Smart Features
+- 🤖 AI Chatbot Assistant for quick help and guidance  
+- 🔍 Global search bar for seamless navigation  
+- 🔔 Notifications for donation and delivery updates  
+- 🗺️ Interactive partner map showing active NGOs and restaurants  
+- 💳 Secure online payment and live donation tracking  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🌍 Vision
+To build a connected ecosystem where compassion meets technology, turning every extra bite into a step toward ending hunger and food waste.
 
-### `npm run build`
+## 🧩 Built Using the MERN Stack
+**MongoDB | Express.js | React.js | Node.js**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
